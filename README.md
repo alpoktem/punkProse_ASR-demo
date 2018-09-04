@@ -18,9 +18,9 @@ This is a demo software that contains scripts to punctuate audio recordings usin
 * [Google Cloud credentials](https://cloud.google.com/speech-to-text/docs/quickstart)
   
 ### Setup:
-Install the required python packages. Install Montreal forced aligner and link the files in `microphone_recognition.py`. Praat should be installed and accessible from command line as `praat`. 
+Install the required python packages. Install Montreal forced aligner and link the binaries and models (`MFA_ALIGN_BINARY`,  `MFA_LEXICON`, `MFA_LM`) in `microphone_recognition.py`. Praat should be installed and accessible from command line as `praat`. 
 
-Speech recognition is done through Uberi's Python package `speech_recognition`. Current setting uses Google Cloud Speech API as the recognition engine. The credentials needs to be put in a file named `credentials.py` with the name GOOGLE_CLOUD_SPEECH_CREDENTIALS.
+Speech recognition is done through Python package `speech_recognition`. Current setting uses Google Cloud Speech API as the recognition engine. The credentials needs to be put in a file named `credentials.py` with the name `GOOGLE_CLOUD_SPEECH_CREDENTIALS`.
 
 Currently two English punctuation models are provided under the directory `models`. One that is trained on words only and another one with prosodic features pause, mean f0 and POS features.
    
