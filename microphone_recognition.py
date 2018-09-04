@@ -7,7 +7,7 @@ from shutil import copyfile
 import sys
 from proscript.proscript import Word, Segment, Proscript
 from proscript.utilities import utils
-from credentials import GOOGLE_CLOUD_SPEECH_CREDENTIALS
+from credentials import GOOGLE_CLOUD_SPEECH_CREDENTIALS  #credentials.py should be put into the repository with the variable name carrying the google cloud speech credentials
 
 WORKING_DIR = 'rec'
 FILESAVE_PREFIX = 'recorded'
