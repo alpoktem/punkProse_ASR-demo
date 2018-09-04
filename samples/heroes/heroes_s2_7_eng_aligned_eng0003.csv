@@ -1,0 +1,13 @@
+word|speaker_id|id|start_time|end_time|duration|pause_before|pause_after|pos|punctuation_before|punctuation_after|f0_mean_hz|i0_mean_db|f0_mean|i0_mean
+we|PETER|heroes_s2_7_eng_aligned.segment3.word1|0.0|0.06|0.06|0.38|0.0|NA|||136.0|68.0|-1.2516|1.7746
+were|PETER|heroes_s2_7_eng_aligned.segment3.word2|0.06|0.14|0.08|0.0|0.0|NA|||130.0|67.0|-2.0328|1.5181
+right|PETER|heroes_s2_7_eng_aligned.segment3.word3|0.14|0.32|0.18|0.0|0.0|NA|||132.0|67.0|-1.7684|1.5181
+about|PETER|heroes_s2_7_eng_aligned.segment3.word4|0.32|0.52|0.2|0.0|0.0|NA|||123.0|60.0|-2.991|-0.3923
+the|PETER|heroes_s2_7_eng_aligned.segment3.word5|0.52|0.59|0.07|0.0|0.0|NA|||121.0|54.0|-3.2748|-2.2163
+company|PETER|heroes_s2_7_eng_aligned.segment3.word6|0.59|1.15|0.56|0.0|0.11|NA||.|120.0|54.0|-3.4185|-2.2163
+the|PETER|heroes_s2_7_eng_aligned.segment3.word7|1.26|1.36|0.1|0.11|0.0|NA|||77.0|52.0|-11.0997|-2.8697
+world|PETER|heroes_s2_7_eng_aligned.segment3.word8|1.36|1.67|0.31|0.0|0.0|NA|||109.0|63.0|-5.083|0.4524
+is|PETER|heroes_s2_7_eng_aligned.segment3.word9|1.67|1.79|0.12|0.0|0.0|NA|||121.0|62.0|-3.2748|0.1754
+in|PETER|heroes_s2_7_eng_aligned.segment3.word10|1.79|1.93|0.14|0.0|0.0|NA|||119.0|65.0|-3.5634|0.9935
+danger|PETER|heroes_s2_7_eng_aligned.segment3.word11|1.93|2.49|0.56|0.0|0.03|NA||.|119.0|60.0|-3.5634|-0.3923
+adam|PETER|heroes_s2_7_eng_aligned.segment3.word12|2.52|2.94|0.42|0.03|0.18|NA||.|118.0|60.0|-3.7095|-0.3923

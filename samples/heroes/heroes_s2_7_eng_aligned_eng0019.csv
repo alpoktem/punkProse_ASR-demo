@@ -1,0 +1,8 @@
+word|speaker_id|id|start_time|end_time|duration|pause_before|pause_after|pos|punctuation_before|punctuation_after|f0_mean_hz|i0_mean_db|f0_mean|i0_mean
+what|CLAIRE|heroes_s2_7_eng_aligned.segment19.word1|0.0|0.09|0.09|0.29|0.0|NA|||234.0|65.0|2.2544|1.4488
+are|CLAIRE|heroes_s2_7_eng_aligned.segment19.word2|0.09|0.12|0.03|0.0|0.0|NA|||147.0|69.0|-5.7939|2.4827
+you|CLAIRE|heroes_s2_7_eng_aligned.segment19.word3|0.12|0.18|0.06|0.0|0.0|NA|||138.0|57.0|-6.8877|-0.8249
+talking|CLAIRE|heroes_s2_7_eng_aligned.segment19.word4|0.18|0.51|0.33|0.0|0.0|NA|||251.0|63.0|3.4685|0.9078
+about|CLAIRE|heroes_s2_7_eng_aligned.segment19.word5|0.51|0.73|0.22|0.0|0.0|NA||?|189.0|63.0|-1.4431|0.9078
+what|CLAIRE|heroes_s2_7_eng_aligned.segment19.word6|0.73|0.87|0.14|0.0|0.0|NA|||257.0|64.0|3.8775|1.1804
+man|CLAIRE|heroes_s2_7_eng_aligned.segment19.word7|0.87|1.14|0.27|0.0|0.34|NA||?|142.0|61.0|-6.393|0.3493

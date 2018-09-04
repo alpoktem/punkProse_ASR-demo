@@ -1,0 +1,11 @@
+word|speaker_id|id|start_time|end_time|duration|pause_before|pause_after|pos|punctuation_before|punctuation_after|f0_mean_hz|i0_mean_db|f0_mean|i0_mean
+relax|WEST|heroes_s2_7_eng_aligned.segment17.word1|0.0|0.72|0.72|0.3|0.0|NA||!|211.0|63.0|4.8289|0.7361
+just|WEST|heroes_s2_7_eng_aligned.segment17.word2|0.72|1.03|0.31|0.0|0.0|NA|||215.0|60.0|5.154|-0.1086
+think|WEST|heroes_s2_7_eng_aligned.segment17.word3|1.03|1.27|0.24|0.0|0.0|NA|||87.0|58.0|-10.509|-0.6955
+of|WEST|heroes_s2_7_eng_aligned.segment17.word4|1.27|1.37|0.1|0.0|0.0|NA|||140.0|62.0|-2.2729|0.4591
+it|WEST|heroes_s2_7_eng_aligned.segment17.word5|1.37|1.46|0.09|0.0|0.0|NA|||88.0|66.0|-10.3111|1.5415
+as|WEST|heroes_s2_7_eng_aligned.segment17.word6|1.46|1.64|0.18|0.0|0.0|NA|||80.0|64.0|-11.9612|1.0088
+a|WEST|heroes_s2_7_eng_aligned.segment17.word7|1.64|1.72|0.08|0.0|0.0|NA|||0.0|0.0|0.0|0.0
+lesson|WEST|heroes_s2_7_eng_aligned.segment17.word8|1.72|2.03|0.31|0.0|0.0|NA|||131.0|63.0|-3.4232|0.7361
+in|WEST|heroes_s2_7_eng_aligned.segment17.word9|2.03|2.13|0.1|0.0|0.0|NA|||128.0|66.0|-3.8243|1.5415
+humility|WEST|heroes_s2_7_eng_aligned.segment17.word10|2.13|2.63|0.5|0.0|0.61|NA||.|137.0|62.0|-2.6479|0.4591
