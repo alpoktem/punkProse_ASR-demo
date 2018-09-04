@@ -13,12 +13,10 @@ sys.path.insert(0, "Proscript/proscript")
 from proscript.proscript import Word, Segment, Proscript
 from proscript.utilities import utils
 
-model_file_w = "punkProse/models/punkProse_model_eng_wordonly.pcl"
-model_file_wPOSpmf = "punkProse/models/punkProse_model_eng_prosodic.pcl"
+model_file_w = "models/punkProse_model_eng_wordonly.pcl"
+model_file_wPOSpmf = "models/punkProse_model_eng_prosodic.pcl"
 config_file = "punkProse/parameters.yaml"
 working_dir_name = mr.WORKING_DIR
-
-DEFAULT_OPEN_DIR = "/Users/alp/phdCloud/playground/proscripter_test"
 
 if __name__ == '__main__':
 	print("Loading configurations file...")
