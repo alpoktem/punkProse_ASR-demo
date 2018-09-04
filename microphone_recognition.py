@@ -14,9 +14,9 @@ FILESAVE_PREFIX = 'recorded'
 SPEAKER_ID = 'spk1'
 
 MAX_SEGMENT_LENGTH = 30.0 #SECONDS
-MFA_ALIGN_BINARY = "/Users/alp/extSW/montreal-forced-aligner/bin/mfa_align"
-MFA_LEXICON = "/Users/alp/extSW/montreal-forced-aligner/pretrained_models/en.dict"
-MFA_LM = "/Users/alp/extSW/montreal-forced-aligner/pretrained_models/english.zip"
+MFA_ALIGN_BINARY = "/Users/alp/extSW/montreal-forced-aligner/bin/mfa_align"   		#mfa_align binary in Montreal Forced Aligner
+MFA_LEXICON = "/Users/alp/extSW/montreal-forced-aligner/pretrained_models/en.dict"	#Dictionary file
+MFA_LM = "/Users/alp/extSW/montreal-forced-aligner/pretrained_models/english.zip"	#Language model file
 
 #WAV properties
 FORMAT = pyaudio.paInt16
