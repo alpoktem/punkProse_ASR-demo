@@ -38,6 +38,7 @@ In order to visualize the recordings install [Prosograph](https://github.com/alp
 
 ## Read more
 This demo was presented in Interspeech 2018:
+[Link](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/3028.pdf)
 
 	@inproceedings{punkProse,
 		author = {Alp Oktem and Mireia Farrus and Antonio Bonafonte},
