@@ -13,6 +13,7 @@ This is a demo software that contains scripts to punctuate audio recordings usin
 	- [speech_recognition](https://github.com/Uberi/speech_recognition)
 	- pyaudio
 	- wave
+* [PunkProse library scripts](https://github.com/alpoktem/punkProse)
 * [Montreal forced aligner](https://montreal-forced-aligner.readthedocs.io/en/latest/installation.html)
 * [Praat](http://www.fon.hum.uva.nl/praat/)
 * [Google Cloud credentials](https://cloud.google.com/speech-to-text/docs/quickstart)
